@@ -18,7 +18,7 @@ This project simulates a basic news recommender system that selects and displays
 
 ---
 
-## 🎲 Random Click Probability
+## Random Click Probability
 
 - Each article **i** is assigned a click probability **p<sub>i</sub>**, sampled **uniformly at random from [0.0, 0.7]**.
 - To ensure **reproducibility**, initialize the random number generator with:
